@@ -1,4 +1,5 @@
 def main():
+
     # escribe tu código abajo de esta línea
     # Aqui estoy pidiendo los datos iniciales
     x1 = float(input("Dame x1: "))
