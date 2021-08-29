@@ -7,5 +7,6 @@ def main():
     publicacion = costo - (costo * 0.10)
     print("El costo de la publicación es:", publicacion)
 
+
 if __name__ == '__main__':
     main()
